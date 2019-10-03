@@ -10,7 +10,7 @@ h1 {
 a {
     color:#cc5bb8;
     font-size: 17px;
-    font-family: cursive;
+    font-family: "Comic Sans MS", sans-serif;
     margin: 7px;
 }
 
@@ -31,7 +31,7 @@ p {
     color: #414e00;
     margin: auto 10% auto 10%;
     font-size: 20px;
-    font-family: cursive;
+    font-family: "Comic Sans MS", sans-serif;
 }
 
 img {
@@ -43,7 +43,7 @@ img {
 
 figure {
     font-size: 17px;
-    font-family: cursive;
+    font-family: "Comic Sans MS", sans-serif;
     font-style: italic;
     text-align: center;
     color: #414e00;
@@ -81,14 +81,6 @@ figure {
     width: 80%;
     margin: auto 10% auto 10%;
 }
-
-/* #rotateright {
-    -ms-transform: rotate(90deg) scale(1.81); /* IE 9 */
-    -webkit-transform: rotate(90deg) scale(1.81); /* Chrome, Safari, Opera */
-    transform: rotate(90deg) scale(1.81);
-    width: 500px;
-    margin: 352px auto 332px auto;
-} */
 
 #copyright {
     color: #80c4eb;
