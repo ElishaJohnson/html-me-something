@@ -82,13 +82,13 @@ figure {
     margin: auto 10% auto 10%;
 }
 
-#rotateright {
+/* #rotateright {
     -ms-transform: rotate(90deg) scale(1.81); /* IE 9 */
     -webkit-transform: rotate(90deg) scale(1.81); /* Chrome, Safari, Opera */
     transform: rotate(90deg) scale(1.81);
     width: 500px;
     margin: 352px auto 332px auto;
-}
+} */
 
 #copyright {
     color: #80c4eb;
